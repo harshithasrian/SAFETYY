@@ -1,0 +1,20 @@
+# Python cache 
+__pycache__/ 
+*.pyc 
+*.pyo 
+ 
+# Database 
+*.db 
+ 
+# Model weights 
+*.pth 
+*.pt 
+ 
+# Runtime files 
+recordings/ 
+uploads/ 
+training_log.txt 
+ 
+# OS files 
+.DS_Store 
+Thumbs.db
